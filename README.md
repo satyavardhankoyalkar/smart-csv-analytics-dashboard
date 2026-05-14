@@ -60,31 +60,31 @@ An intelligent analytics platform that allows users to upload CSV datasets and a
 
 ## 🏠 Main Dashboard
 
-![Dashboard](screenshots/19c5da94-dca5-4483-ad51-24b60cd217f7-0(1).jpg)
+<img width="3300" height="2550" alt="19c5da94-dca5-4483-ad51-24b60cd217f7-0" src="https://github.com/user-attachments/assets/083b1d8e-609e-42c9-969f-a047990a917f" />
 
 ---
 
 ## 📋 Dataset Profiling & Column Detection
 
-![Profiling](screenshots/19c5da94-dca5-4483-ad51-24b60cd217f7-1(1).jpg)
+<img width="3300" height="2550" alt="19c5da94-dca5-4483-ad51-24b60cd217f7-1" src="https://github.com/user-attachments/assets/8f4ff04e-9e21-4328-b53a-4533153391ea" />
 
 ---
 
 ## 📊 Smart Visualizations
 
-![Visualizations](screenshots/19c5da94-dca5-4483-ad51-24b60cd217f7-2(1).jpg)
+<img width="3300" height="2550" alt="19c5da94-dca5-4483-ad51-24b60cd217f7-2" src="https://github.com/user-attachments/assets/5c2b8504-1943-4225-b9c5-5a420a2e56f2" />
 
 ---
 
 ## 🔥 Correlation Heatmap & Smart Insights
 
-![Insights](screenshots/19c5da94-dca5-4483-ad51-24b60cd217f7-3(1).jpg)
+<img width="3300" height="2550" alt="19c5da94-dca5-4483-ad51-24b60cd217f7-3" src="https://github.com/user-attachments/assets/1dca73ba-5919-46d9-b33b-1ae64ab386a7" />
 
 ---
 
 ## ⬇ Download Cleaned Dataset
 
-![Download](screenshots/19c5da94-dca5-4483-ad51-24b60cd217f7-4(1).jpg)
+<img width="3300" height="2550" alt="19c5da94-dca5-4483-ad51-24b60cd217f7-4" src="https://github.com/user-attachments/assets/39f4e5d0-289a-495b-9b0a-977663bd6022" />
 
 ---
 
