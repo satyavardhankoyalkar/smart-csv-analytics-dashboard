@@ -60,38 +60,38 @@ An intelligent analytics platform that allows users to upload CSV datasets and a
 
 ## 🏠 Main Dashboard
 
-![Dashboard](screenshots/dashboard_1.png)
+![Dashboard](screenshots/19c5da94-dca5-4483-ad51-24b60cd217f7-0(1).jpg)
 
 ---
 
 ## 📋 Dataset Profiling & Column Detection
 
-![Profiling](screenshots/dashboard_2.png)
+![Profiling](screenshots/19c5da94-dca5-4483-ad51-24b60cd217f7-1(1).jpg)
 
 ---
 
 ## 📊 Smart Visualizations
 
-![Visualizations](screenshots/dashboard_3.png)
+![Visualizations](screenshots/19c5da94-dca5-4483-ad51-24b60cd217f7-2(1).jpg)
 
 ---
 
 ## 🔥 Correlation Heatmap & Smart Insights
 
-![Insights](screenshots/dashboard_4.png)
+![Insights](screenshots/19c5da94-dca5-4483-ad51-24b60cd217f7-3(1).jpg)
 
 ---
 
 ## ⬇ Download Cleaned Dataset
 
-![Download](screenshots/dashboard_5.png)
+![Download](screenshots/19c5da94-dca5-4483-ad51-24b60cd217f7-4(1).jpg)
 
 ---
 
 # 📂 Project Structure
 
 ```text
-retail-sales-dashboard/
+smart-csv-analytics-dashboard/
 │
 ├── app.py
 ├── requirements.txt
@@ -101,11 +101,6 @@ retail-sales-dashboard/
 ├── data/
 ├── outputs/
 ├── screenshots/
-│   ├── dashboard_1.png
-│   ├── dashboard_2.png
-│   ├── dashboard_3.png
-│   ├── dashboard_4.png
-│   └── dashboard_5.png
 ```
 
 ---
@@ -123,7 +118,7 @@ git clone YOUR_GITHUB_REPO_LINK
 ## 2️⃣ Navigate To Project
 
 ```bash
-cd retail-sales-dashboard
+cd smart-csv-analytics-dashboard
 ```
 
 ---
