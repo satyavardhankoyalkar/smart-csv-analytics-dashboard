@@ -11,7 +11,9 @@ An intelligent analytics platform that allows users to upload CSV datasets and a
 - ⬇ Downloadable cleaned datasets
 
 ---
+# 🌍 Live Demo
 
+👉 [Open Live Dashboard](https://smart-csv-analytics-dashboard-yka8tbenkxgujpqxy82lqm.streamlit.app/)
 # 🚀 Features
 
 ## ✅ Automated Data Cleaning
